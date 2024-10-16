@@ -1,5 +1,6 @@
 # Handwriting recognition
 DNN手寫辨識
+DCNN手寫辨識
 # linear regression
 Test
 # Stock_Prediction_LSTM
